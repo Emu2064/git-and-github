@@ -3,3 +3,21 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+h1{
+    text-align: center;
+}
+
+.blocks{
+    display: flex;
+    justify-content: center;
+
+}
+.paragraph{
+    padding: 10px 20px;
+    margin: 0 10px;
+    /* border: 1px solid blue; */
+    width: 300px;
+    box-shadow: 2px 2px 3px 1px gray;
+    border-radius: 20px;
+}
